@@ -8,7 +8,7 @@ A simple job application form for a web application, allowing users to apply for
 
 ## Usage
 
-Go to - https://kunalkhandekar.github.io/Application-Form/
+Go to - https://sample-application-form.netlify.app/
 
 OR
 
