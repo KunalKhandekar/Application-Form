@@ -58,6 +58,7 @@ body {
     padding: 3px;
     padding-left: 10px;
     border-radius: 5px;
+    outline: none;
 }
 input:hover,
 input:active,
