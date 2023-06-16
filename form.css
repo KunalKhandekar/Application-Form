@@ -67,7 +67,7 @@ textarea, input {
 input:hover,
 input:active,
 input:focus,
-textarea: hover
+textarea: hover,
 textarea: focus,
 textarea: active {
     border: 2px solid red;
