@@ -60,7 +60,7 @@ body {
     border-radius: 5px;
 }
 
-textarea, input {
+textarea, .input {
     outline: none;
 }
 
