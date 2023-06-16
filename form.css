@@ -58,11 +58,18 @@ body {
     padding: 3px;
     padding-left: 10px;
     border-radius: 5px;
+}
+
+textarea, input {
     outline: none;
 }
+
 input:hover,
 input:active,
-input:focus {
+input:focus,
+textarea: hover
+textarea: focus,
+textarea: active {
     border: 2px solid red;
 }
 
